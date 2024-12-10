@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <header>
-      <div className="logo">IT Company</div>
+      <div className="logo">OOOOOOOO Company</div>
       <nav>
         <Link to="/">Home</Link>
         <Link to="/services">Services</Link>

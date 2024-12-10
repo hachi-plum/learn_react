@@ -10,7 +10,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert("Thank you for contacting us!");
+    alert("message sent");
     setFormData({ name: "", email: "", message: "" });
   };
 

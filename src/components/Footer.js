@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <p>&copy; 2024 IT Company. All Rights Reserved.</p>
+      <p>☆*: .｡. o(≧▽≦)o .｡.:*☆</p>
     </footer>
   );
 }

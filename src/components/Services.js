@@ -5,10 +5,10 @@ function Services() {
     <div className="services">
       <h1>Our Services</h1>
       <ul>
-        <li>Web Development</li>
-        <li>Mobile App Development</li>
-        <li>Cloud Solutions</li>
-        <li>AI & Machine Learning</li>
+        <li>AAAAA</li>
+        <li>BBBBB</li>
+        <li>CCCCC</li>
+        <li>DDDDD</li>
       </ul>
     </div>
   );
